@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @devrajsawant
-- 👀 I’m interested in Mern Stack and Creating visually appealing Animated websites
-- 🌱 I’m currently working on full stack projects and improving skills
-- 💞️ I’m looking to collaborate on creative development and animated websites
-- 📫 reach me on devrajsawant6@gmail.com 
-- 😄 Pronouns: He/Codes
+<!-- README.md -->
 
-<!---
-devrajsawant/devrajsawant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Devraj</h1>
+<h3 align="center"> A Full Stack Web Developer from India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3F8BFF&center=true&vCenter=true&width=500&lines=Life%E2%80%99s+too+short+for+ugly+UIs++%F0%9F%92%A5;No+bugs%2C+just+unexpected+features+%F0%9F%90%9B;Putting+the+%E2%80%9Cfun%E2%80%9D+in+function+%F0%9F%A7%A9" alt="Typing SVG" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,express,nodejs,mongodb" /><br />
+  <img src="https://skillicons.dev/icons?i=mantine" alt="mantine" height="40"/>
+  <img src="https://skillicons.dev/icons?i=shadcnui" alt="shadcn" height="40"/>
+</p>
